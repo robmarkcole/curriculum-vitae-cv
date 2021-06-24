@@ -15,6 +15,11 @@ Optical work at [Surrey Satellites](https://www.sstl.co.uk/)
 - [Twitter](https://twitter.com/robmarkcole)
 - For citations see my [Google Scholar profile](https://scholar.google.com/citations?user=oHe5ozwAAAAJ&hl=en)
 
+## Open source software contributions
+Pandas docs
+Matplotlib
+Home Assistant
+
 ## First author publications
 
 - `Evanescent-field optical readout of graphene mechanical motion at room temperature` R.M.Cole, G.A.Brawley, V.P.Adiga, R.De Alba, J.M.Parpia, B.Ilic, H.G.Craighead, W.P.Bowen. Physical Review Applied (2015) 
