@@ -27,6 +27,8 @@ Optical work at [Surrey Satellites](https://www.sstl.co.uk/)
 
 - `Stretchable Elastomeric Nanovoids for Tuneable Plasmons` R.M.Cole, S.Mahajan, P.N.Bartlett, J.J.Baumberg. Applied Physics Letters 95 154103 (2009)
 
+- [PhD thesis](https://github.com/robmarkcole/phd_thesis_plasmons/blob/master/cole_thesis.pdf)
+
 ## Second author publications
 Only listing those where I made a significant contribution
 
